@@ -1,2 +1,1 @@
-# online-store
-stage 2 task
+https://inni-ast.github.io/online-store/online-store/
